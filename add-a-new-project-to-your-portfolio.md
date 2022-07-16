@@ -23,6 +23,9 @@ You might not have a portfolio yet at this stage of the Curriculum so, in the ex
 ## Important note for non-transition students
 At this stage, you might already have a portfolio ready. It is important to make it look presentable to employers and recruiters. Read through all the sections below and then complete the exercise at the bottom of this page.
 
+Make sure that each one of your portfolio projects links to its respective GitHub repository.
+Make sure to also include live demo links wherever possible. Not all recruiters have a development background, so not everyone who views your profile will be able to accurately decipher your code. However, if you include live demo links, then everyone—whether they understand software development or not—will be able to look at your projects and gain an understanding of your capabilities.
+
 
 ### Gather screenshots of your projects
 
