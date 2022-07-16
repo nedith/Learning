@@ -1,0 +1,106 @@
+# Using project updates to work better as a team
+
+## Learning objectives
+
+- Learn the value of regular project status updates for group projects and practice daily with teammates.
+
+### **Estimated time**: 0.5h
+
+## Using project updates to work better as a team
+
+This lesson will talk about the importance and the benefits of project updates to help collaboration go more smoothly in your group project team.
+
+### Why is giving project updates important?
+
+Project updates help group work in the remote setting. As you are not working in the same room you are not able to see the progress of your colleagues, nor any of the blockers they are struggling with. Project updates help give transparency to the whole team where members are in their part of the project and help move you forward as a team.
+
+Project updates are also useful to bring blockers to the surface and let team members know when someone is stuck and needs help. Project updates are an essential part in making sure that work gets done by the deadline. They are a tool for communication, accountability and transparency. You will start using project updates in your first group project and will continue doing so in all group projects in the program.
+
+### More about project updates
+
+**Guiding questions:**
+
+- How will project updates help you as an individual?
+- How will project updates help you as a team?
+
+**Learn more about project updates:**
+
+- [Project updates at Microverse](project-updates-at-microverse.md)
+- [Getting unblocked through project updates](getting-unblocked-through-project-updates.md)
+
+# Project updates at Microverse 
+
+### How to use daily project updates?
+
+The first and foremost purpose of project updates is to let your team know the status of your task. Project updates will make sure that there is transparency in the team and there are no surprises of unfinished tasks by the end of the week.
+
+Project updates will help you as an individual because they push you to think and plan: What will I be working on by the next update? What blockers might I experience tomorrow?
+
+Project updates will also make sure that you are not stuck and waiting and ensures that you can ask other team members to unblock you.
+
+### How to give a good update?
+
+Each day you should give a project update to your team at an agreed-upon time. Your project update shouldn't just be a list of things that you have done, but rather should give your team more context about the task. In your update, talk about challenges you had with completing certain tasks or aspects that went surprisingly smooth.
+
+- What have you done since the last update?
+- What are you doing now until the next update?
+- Do you need help from someone else on the team? Do you have any questions? Are you blocked in some way? Be sure to tag relevant people in your response.
+
+### Where will I give my project updates?
+You will receive a reminder in your group project team's Slack channel, and you should put your project updates there.
+
+# Getting unblocked through project updates
+
+Project updates can also be used for surfacing blockers. For example:
+
+- You got stuck on a problem and you need help
+- You are starting on a part that requires someone else to finish their part.
+
+Everyone gets stuck on a problem or challenge. You shouldn't feel like you need to figure it out yourself. If you get stuck for longer than 30 minutes, then reach out for help! It's an essential part of teamwork to help others get unblocked. You do not need to wait until the project update for help. You can reach out sooner and work on something different while you wait to be unblocked. Then, you can use the project updates to notify your team members that you are still blocked and need help.
+
+While you are stuck, always try to find different things you can work on to avoid wasting time. This is very important in the remote work environment and something your team and your future boss will expect of you. In the remote environment, you will often work with people in different time zones, and answering questions might take longer than in-office work. Therefore being proactive in finding productive things to work on while you wait to get unblocked is important.
+
+**How to ask for help?**
+
+In a remote environment, you should always give as much detailed context as possible when asking for help. For example, sending a Loom video explaining where you are stuck will help others understand what is holding you back. You should shortly summarize your blocker so the whole team can understand where you are stuck and offer more details for the person who will unblock you (no need for the whole team to spend time understanding your blocker).
+
+**Who to ask for help?**
+
+Make agreements with your team on who will help unblock when another team member is stuck. Will it be the first person who sees it? Will you assign a person per day who will help with unblocking? Will you let whoever is most expert in a topic answer? Choose a strategy and assess what is working. Make sure your team's blockers are unsolved and it's not always the same person who is helping others.
+
+**How to problem-solve?**
+
+There are different ways to solve the blocker depending on the type of blocker. Sometimes more questions need to be asked. Sometimes the team member will need to explain where they are stuck using a Loom or in an ad-hoc Zoom call. This will depend on the difficulty of the blocker. Always try to solve it asynchronously first and if the problem is too complex you can jump on a call. For example, if a problem requires more than two Loom videos to answer the question, you should schedule a quick call.
+
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
+
+## Exercise
+
+### Instructions
+
+*Check out this FAQ if you need a refresher on [Google Doc submission best practices](https://microverse.zendesk.com/hc/en-us/articles/360063156813)*
+
+1. Spend 15 minutes coming up with the agreements individually.
+2. Message your group project team to set a time for meeting together as a group; after this solo exercise you should get together with them for a 15-minute meeting to set group agreements (see activity that follows this one in your Dashboard for instructions).
+
+**Exercise template to copy:** [Using project updates to work better as a team](https://docs.google.com/document/d/1tIXgjYp_8mEMO_dBjQavpBTdKAWAScnI8K4baBgFGHY/edit#)
+
+### Submit your exercise
+
+*Read [this FAQ](https://microverse.zendesk.com/hc/en-us/articles/360061344234) for a reminder on how to submit your exercise.*
+
+Now go to your Student Dashboard and submit your exercise.
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
